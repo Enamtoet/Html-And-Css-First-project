@@ -83,7 +83,7 @@ body{
     width: 100%; 
 }
 .header .header-content .links:hover ul{
-    display: block;
+    display: none;
 }
 .header .header-content .links .icon{
     width: 30Px;
